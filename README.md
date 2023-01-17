@@ -1,9 +1,12 @@
 # CSharp_learn
+mydir="csharp_lesson"
+mkdir $mydir
 
-mkdir YOUR_DIR
 
-git clone https://github...... YOUR_DIR
-cd YOUR_DIR
+cd $mydir
+dotnet new console
 
-dotnet new console 
+
+git clone https://github.com/radik2019/CSharp_learn.git $mydir
+
 
