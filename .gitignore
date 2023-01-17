@@ -1,12 +1,12 @@
 
 
-README.md
-!.gitignore
 
-!*.cs
-!*.csproj
+
+
 bin/
 obj/
 .vscode/
-
+C_sharp_proj.csproj
 tempCodeRunnerFile.cs
+Program.cs
+
