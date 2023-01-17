@@ -1,0 +1,12 @@
+
+
+README.md
+!.gitignore
+
+!*.cs
+!*.csproj
+bin/
+obj/
+.vscode/
+
+tempCodeRunnerFile.cs
